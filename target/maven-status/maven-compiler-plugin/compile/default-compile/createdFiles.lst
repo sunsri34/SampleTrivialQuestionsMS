@@ -1,0 +1,6 @@
+com\ms\trivia\model\TriviaQuestion.class
+com\ms\trivia\model\TriviaQuestionAccessible.class
+com\ms\trivia\model\TriviaQuestionBuilder.class
+com\ms\trivia\TriviaApp.class
+com\ms\trivia\model\TriviaQuestionArrayAccess.class
+com\ms\trivia\endpoints\TriviaQuestionEndpoint.class
